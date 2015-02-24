@@ -1,6 +1,6 @@
 |Date|Host Location|Sponsor(s)|Speakers|
 |----|-------------|----------|--------|
-|March 10, 2015|  |  |  |
+|March 10, 2015| General Assembly or Excella  |  |  |
 |April 14, 2015| Excella |  |  |
 |May 19, 2015| Excella |  |  |
 |July 14, 2015|  |  |  |
