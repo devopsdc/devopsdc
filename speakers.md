@@ -4,12 +4,14 @@
 * Michael Barbine
 * Ryan Stoll - Jumpcloud
 * Elinor Slomba - Coveros
-* Jeff Wooton - how Data as a Service can enable DevOps [http://www.delphix.com/solutions/devops/](http://www.delphix.com/solutions/devops/)
+* Jeff Wooton - how Data as a Service can enable DevOps [http://www.delphix.com/solutions/devops/](http://www.delphix.com/solutions/devops/) (March 2015?)
 * Aramis Thomas - Microsoft Technical Community Team
 * Simon Storm - DevOps Enterprise Summit talk?
 * Jeff Gallimore - Top 10 tactics for DevOps
-* Gene Gotimer, Coveros - Developing a Continuous Delivery Tool Chain from the Bottom Up
-* Vishwas Lele - CTO, Applied Information Sciences and Microsoft Regional Director - A model-driven approach to DevOps
+* Gene Gotimer, Coveros - Developing a Continuous Delivery Tool Chain from the Bottom Up (March 2015)
+* Vishwas Lele - CTO, Applied Information Sciences and Microsoft Regional Director - A model-driven approach to DevOps (Available for April 14, 2015)
+* Ric Lister - CoreOS (April 2015)
+
 
 
 ### A model-driven approach to DevOps

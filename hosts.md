@@ -16,5 +16,6 @@ In the case where Excella is unable to host or we desire a change of venue there
 |Netuitive||100|Jason Simpson|
 |OpenWhere|Herndon||Scott Herman|
 |Optoro|Chinatown|50|Josh Szmajda|
+|Spree Commerce|Bethesda||Ric Lister|
 |TEKsystems|Merrifield|30 (or 200)|Caity Burton|
 |USPTO|Arlington|100|Adrienne Cox||Wedding Wire|Chevy Chase||Lyndsey Lustig|
