@@ -12,3 +12,4 @@
 * Jeff Gallimore - Top 10 tactics for DevOps
 * Jay Flowers - Performance Testing should be free with DevOps!
 * Luminal
+* Adam Leff - Chef Cookbook Testing (Chefspec, Serverspec w/ Test Kitchen)
