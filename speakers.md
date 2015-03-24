@@ -10,3 +10,5 @@
 * Jeff Wooton - how Data as a Service can enable DevOps [http://www.delphix.com/solutions/devops/](http://www.delphix.com/solutions/devops/)
 * Simon Storm - DevOps Enterprise Summit talk
 * Jeff Gallimore - Top 10 tactics for DevOps
+* Jay Flowers - Performance Testing should be free with DevOps!
+* Luminal
