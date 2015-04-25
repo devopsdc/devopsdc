@@ -13,3 +13,5 @@
 * Jay Flowers - Performance Testing should be free with DevOps!
 * Luminal
 * Adam Leff - Chef Cookbook Testing (Chefspec, Serverspec w/ Test Kitchen)
+* Casey Bisson - Joyent - contacted Nathen via Meetup.com messages
+
