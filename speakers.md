@@ -11,3 +11,4 @@
 * Casey Bisson - Joyent - contacted Nathen via Meetup.com messages
 * Reza Naghib, API evangelist, Varnish Software - Five Ways to Avoid Traffic Jams on the Internet of Things
 * Curtis Yanko - Scaling DevOps
+* Derek Weeks - Software Supply Chain Report
