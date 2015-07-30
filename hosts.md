@@ -13,6 +13,7 @@ In the case where Excella is unable to host or we desire a change of venue there
 |CustomInk|2910 District Ave, Fairfax|75|Andrew Willis|
 |Excella Consulting|2300 Wilson Blvd, Suite 630, Arlington|100|Jeff Gallimore|
 |General Assembly|1133 15th St. NW||Kendrick Jackson|
+|Learning Objects|1528 Conn Ave NW (Dupont Circle)|50|Mark Cornick|
 |Netuitive||100|Jason Simpson|
 |OpenWhere|Herndon||Scott Herman|
 |Optoro|Chinatown|50|Josh Szmajda|
