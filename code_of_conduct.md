@@ -1,4 +1,5 @@
-# Code of Conduct
+[b]Code of Conduct[/b]
+[i]Last Updated:  28-Aug-2015[/i]
 
 DevOpsDC is a community-organized Meetup intended for networking and collaboration in the community.
 
@@ -6,7 +7,7 @@ We value the participation of each member of the community and want all attendee
 
 To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers, and volunteers at any DevOpsDC event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout events.
 
-## The Short Version
+[b]The Short Version[/b]
 
 DevOpsDC is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of Meetup participants in any form.
 
@@ -18,8 +19,7 @@ Attendees violating these rules may be asked to leave the Meetup without a refun
 
 Thank you for helping make this a welcoming, friendly event for all.
 
-
-## The Longer Version
+[b]The Longer Version[/b]
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, persistent following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
@@ -31,11 +31,14 @@ Be careful in the words that you choose. Remember that sexist, racist, and other
 
 If a participant engages in behavior that violates this code of conduct, the Meetup organizers may take any action they deem appropriate, including warning the offender, expulsion from the Meetup with no refund, or legal action.
 
-### Contact Information
+[b]Contact Information[/b]
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a Meetup organizer. Meetup organizers can be found on the [Organizers page of the Meetup.com site](http://www.meetup.com/DevOpsDC/members/?op=leaders).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a Meetup organizer. Meetup organizers can be found on the [url=http://www.meetup.com/DevOpsDC/members/?op=leaders]Organizers page of the Meetup.com site[/url].
 
+[b]License[/b]
 
-## License
+This Code of Conduct was forked from the example policy from the [url=http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy]Geek Feminism wiki, created by the Ada Initiative and other volunteers[/url]. which is under a Creative Commons Zero license. It is also based on the [url=https://github.com/python/pycon-code-of-conduct]PyCon Code of Conduct[/url].
 
-This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy). which is under a Creative Commons Zero license. It is also based on the [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct).
+[b]Source and Changes[/b]
+
+The canonical source of this document is [url=https://github.com/devopsdc/devopsdc/blob/master/code_of_conduct.md][/u]GitHub[/u][/url].  Submit a pull request for this document there if you would like to see a change.
