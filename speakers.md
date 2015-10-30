@@ -1,6 +1,5 @@
 # Potential Speakers for DevOpsDC
 
-* Jeff Gallimore - Top 10 tactics for DevOps
 * Tom Robison - ChefDK
 * Ryan Stoll - Jumpcloud
 * Jeff Wooton - how Data as a Service can enable DevOps [http://www.delphix.com/solutions/devops/](http://www.delphix.com/solutions/devops/)
