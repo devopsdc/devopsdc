@@ -12,6 +12,5 @@
 * Reza Naghib, API evangelist, Varnish Software - Five Ways to Avoid Traffic Jams on the Internet of Things
 * Curtis Yanko - Scaling DevOps
 * Derek Weeks - Software Supply Chain Report
-* Nicole Forsgren - State of DevOps Report (November 2015)
-* Effective post-mortem and retrospecitves - panel discussion?
 * Starting a new position, what's it like, strategies for getting productive, etc. - Mark Cornick.
+* Cumulus Networks 
