@@ -1,5 +1,7 @@
 # Potential Speakers for DevOpsDC
 
+Are you interested in speaking?  Please submit a pull request to this page with your name and proposed topic.
+
 * Tom Robison - ChefDK
 * Ryan Stoll - Jumpcloud
 * Jeff Wooton - how Data as a Service can enable DevOps [http://www.delphix.com/solutions/devops/](http://www.delphix.com/solutions/devops/)
