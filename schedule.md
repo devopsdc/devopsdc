@@ -1,7 +1,14 @@
-|Date|Host Location|Sponsor(s)|Speakers|
-|----|-------------|----------|--------|
-|[August 11, 2015](http://www.meetup.com/DevOpsDC/events/220944711/)| Excella | DevOpsDays DC | Jennifer Davis ([@sigje](https://twitter.com/sigje)), (github:  [iennae](https://github.com/iennae)) |
-|[September 15, 2015](http://www.meetup.com/DevOpsDC/events/220944729/)| Learning Objects | [New Relic](http://newrelic.com/)  |  |
-|[October 13, 2015](http://www.meetup.com/DevOpsDC/events/220944740/)| Excella |  |  |
-|[November 10, 2015](http://www.meetup.com/DevOpsDC/events/220944748/)| Excella |  | 2015 State of DevOps Report: Discussion and Book Club! - Nicole Forsgren |
-|[December 8, 2015](http://www.meetup.com/DevOpsDC/events/220944756/)| Excella |  |  |
+Date|Host Location|Sponsor(s)|Speakers
+----|-------------|----------|--------
+[January 12, 2016](http://www.meetup.com/DevOpsDC/events/226749899/)| Excella | |
+[February 9, 2016](http://www.meetup.com/DevOpsDC/events/226750186/)| Excella | |
+[March 8, 2016](http://www.meetup.com/DevOpsDC/events/226752572/)| Excella | |
+[April 12, 2016](http://www.meetup.com/DevOpsDC/events/226823531/)| Excella | |
+[May 10, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvhbnb/)| Excella | |
+[June 14, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvjbsb/)| Excella | |
+[July 19, 2016](http://www.meetup.com/DevOpsDC/events/227569141/)| Excella | |
+[August 9, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvlbmb/)| Excella | |
+[September 13, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvmbrb/)| Excella | |
+[October 11, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvnbpb/)| Excella | |
+[November 8, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvpblb/)| Excella | |
+[December 13, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvqbrb/)| Excella | | 
