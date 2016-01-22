@@ -3,7 +3,7 @@ Date|Host Location|Sponsor(s)|Speakers
 [January 12, 2016](http://www.meetup.com/DevOpsDC/events/226749899/)| Excella | | Continuous Delivery Pipelines with Jenkins Workflow (Harshal Dharia, Cloudbees)
 [February 9, 2016](http://www.meetup.com/DevOpsDC/events/226750186/)| AWS - Herndon | AWS |
 [March 8, 2016](http://www.meetup.com/DevOpsDC/events/226752572/) (May move to Mar 15)| Excella | [To The New](http://www.tothenew.com/) | Cumulus Networks
-[April 12, 2016](http://www.meetup.com/DevOpsDC/events/226823531/)| Excella | |
+[April 12, 2016](http://www.meetup.com/DevOpsDC/events/226823531/)| Excella | Valiant Solutions, LLC |
 [May 10, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvhbnb/)| Excella | |
 [June 14, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvjbsb/)| Excella | |
 [July 19, 2016](http://www.meetup.com/DevOpsDC/events/227569141/)| Excella | |
