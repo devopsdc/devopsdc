@@ -23,3 +23,4 @@ In the case where Excella is unable to host or we desire a change of venue there
 |USPTO|Arlington|100|Adrienne Cox|
 |Wedding Wire|Chevy Chase||Lyndsey Lustig|
 |Michael Barbine|11911 Freedom Dr #850, Reston, VA 20190||Michael Barbine|
+|Clarabridge|11400 Commerce Park Drive, #500, Reston, VA 20191||Ian Macdonald|
