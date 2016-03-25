@@ -16,3 +16,4 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * Starting a new position, what's it like, strategies for getting productive, etc. - Mark Cornick.
 * Cumulus Networks 
 * Sean Killeen - TeamCity + OctopusDeploy: BFFs
+* Badri Sriraman - Karsun Solutions - Analytics for DevOps
