@@ -18,3 +18,4 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * Sean Killeen - TeamCity + OctopusDeploy: BFFs
 * Sean Walberg - WaterBoy, my robotic co-worker
 * Gaurav Pal (GP) - Building SOLR and MongoDB clusters at scale using Chef Provisioning
+* Badri Sriraman - Karsun Solutions - Analytics for DevOps
