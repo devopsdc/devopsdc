@@ -14,8 +14,4 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * Curtis Yanko - Scaling DevOps
 * Derek Weeks - Software Supply Chain Report
 * Starting a new position, what's it like, strategies for getting productive, etc. - Mark Cornick.
-* Cumulus Networks
-* Sean Killeen - TeamCity + OctopusDeploy: BFFs
-* Sean Walberg - WaterBoy, my robotic co-worker
-* Gaurav Pal (GP) - Building SOLR and MongoDB clusters at scale using Chef Provisioning
 * Badri Sriraman - Karsun Solutions - Analytics for DevOps
