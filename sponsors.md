@@ -14,7 +14,7 @@ Sponsor food for our monthly meetup!  Food sponsorship is *$300 for each event*.
 ## Beverage Sponsor
 Sponsor beverages for our monthly meetup!  Beverage sponsorship is *$200 for each event* and will cover beer for the event.  Beverage sponsorship money may also be used to cover wine, soft drinks, and to supplement food costs for the event.  The beverage sponsor will be thanked by the MC and have 3 minutes to address the meeting attendees.
 
-### Logistics
+## Logistics
 
 One food and one beverage sponsorship is available each meeting.
 
