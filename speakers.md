@@ -16,3 +16,4 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * Starting a new position, what's it like, strategies for getting productive, etc. - Mark Cornick.
 * Badri Sriraman - Karsun Solutions - Analytics for DevOps
 * Laura Barton - Performance Testing in your pipeline
+* Rick Garcia - Empower Security Academy - AWS Security
