@@ -7,8 +7,8 @@ Date|Host Location|Sponsor(s)|Speakers
 [May 17, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvhbnb/)| Optoro | ?? | Sean Walberg & GP
 No June Meetup, come to [DevOpsDaysDC June 8-9](http://www.devopsdays.org/events/2016-washington-dc/welcome/) | | |
 [July 19, 2016](http://www.meetup.com/DevOpsDC/events/227569141/)| Optoro | Chef | Nathen Harvey & Adam Leff
-[August 23, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvlbmb/)| Excella | |
+[August 23, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvlbmb/)| Excella | | Jay Flowers
 [September 13, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvmbrb/)| Excella | |
-[October 11, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvnbpb/)| Excella | |
+[October 11, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvnbpb/)| Excella | | (AppSecUSA is in town) Badri Sriraman & InSpec(?)
 [November 8, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvpblb/)| Excella | |
-[December 13, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvqbrb/)| Excella | |
+[December 13, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvqbrb/)| Excella | | Mark Cornick
