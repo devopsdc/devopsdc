@@ -6,8 +6,8 @@ Date|Host Location|Sponsor(s)|Speakers
 [April 12, 2016](http://www.meetup.com/DevOpsDC/events/226823531/)| Excella | Valiant Solutions, LLC | Cumulus Networks - What is NetDevOps? & James Martin - Ansible 2.0
 [May 17, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvhbnb/)| Optoro | ?? | Sean Walberg & GP
 No June Meetup, come to [DevOpsDaysDC June 8-9](http://www.devopsdays.org/events/2016-washington-dc/welcome/) | | |
-[July 19, 2016](http://www.meetup.com/DevOpsDC/events/227569141/)| Excella | |
-[August 9, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvlbmb/)| Excella | |
+[July 19, 2016](http://www.meetup.com/DevOpsDC/events/227569141/)| Optoro | Chef | Nathen Harvey & Adam Leff
+[August 23, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvlbmb/)| Excella | |
 [September 13, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvmbrb/)| Excella | |
 [October 11, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvnbpb/)| Excella | |
 [November 8, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvpblb/)| Excella | |
