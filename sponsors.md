@@ -5,3 +5,6 @@ Are you interested in sponsoring?  Please submit a pull request to this page wit
 Speaking slots are evaluated and provided outside of sponsorships though each sponsor will have a few minutes to address the attendees.  
 
 [Read more information about sponsoring the DevOpsDC Meetup](sponsor_info.md).
+
+* [DevOpsDays DC](http://www.devopsdays.org/events/2016-washington-dc/welcome/)
+* [Chef](https://www.chef.io)
