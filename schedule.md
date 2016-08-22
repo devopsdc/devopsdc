@@ -9,6 +9,6 @@ No June Meetup, come to [DevOpsDaysDC June 8-9](http://www.devopsdays.org/events
 [July 19, 2016](http://www.meetup.com/DevOpsDC/events/227569141/)| Optoro | Chef | Nathen Harvey & Adam Leff
 [August 23, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvlbmb/)| Excella | Fastly | Jay Flowers
 [September 13, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvmbrb/)| Excella | | Laura Barton
-[October 11, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvnbpb/)| Excella | | (AppSecUSA is in town) Badri Sriraman & InSpec(?)
-[November 8, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvpblb/)| Excella | |
+[October 11, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvnbpb/)| Excella | | (AppSecUSA is in town) Badri Sriraman & Derek Weeks, Sonatype
+[November 8, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvpblb/)| Excella | | Tony Alletag - ACES, Inc.
 [December 13, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvqbrb/)| Excella | | Mark Cornick
