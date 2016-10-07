@@ -1,6 +1,6 @@
 # DevOps DC Meetup Sponsorship Opportunities
 
-DevOps DC is a meetup group that includes more than 1,000 local technologists and meets on a monthly basis.  Our meetings typically draw 45-70 people who are interested in sharing and learning about the people, processes, and tools required to build and operate high velocity organizations.
+DevOps DC is a meetup group that includes more than 2,000 local technologists and meets on a monthly basis.  Our meetings typically draw 45-70 people who are interested in sharing and learning about the people, processes, and tools required to build and operate high velocity organizations.
 
 Sponsoring our meetings is a great way to get involved with the local technology community.
 
