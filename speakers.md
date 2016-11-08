@@ -14,3 +14,6 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * Reza Naghib, API evangelist, Varnish Software - Five Ways to Avoid Traffic Jams on the Internet of Things
 * Curtis Yanko - Scaling DevOps
 * Rick Garcia - Empower Security Academy - AWS Security
+* Ric Lister - [Fearless Deployment](https://speakerdeck.com/rlister/fearless-deployment),
+  a.k.a. Extreme Blue/Green For Fun and Profit,
+  a.k.a. How to Retain Your Sanity After Acquisition
