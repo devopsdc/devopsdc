@@ -11,4 +11,4 @@ No June Meetup, come to [DevOpsDaysDC June 8-9](http://www.devopsdays.org/events
 [September 13, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvmbrb/)| Excella | Valiant Solutions & Fugue | Laura Barton & Rodney Young
 [October 11, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvnbpb/)| Optoro | Fugue (food) & River Bed (drinks) | (AppSecUSA is in town) Badri Sriraman & Derek Weeks, Sonatype
 [November 15, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvpblb/)| Excella | evolenthealth.com (food) & Hobsons (drinks) | Tony Alletag - ACES, Inc. & DevOps Improv
-[December 13, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvqbrb/)| Excella | | Mark Cornick & Valiant Solutions
+[December 13, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvqbrb/)| Excella | mHelpDesk | Mark Cornick & Valiant Solutions
