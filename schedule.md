@@ -1,14 +1,16 @@
 Date|Host Location|Sponsor(s)|Speakers
 ----|-------------|----------|--------
-[January 12, 2016](http://www.meetup.com/DevOpsDC/events/226749899/)| Excella | | Continuous Delivery Pipelines with Jenkins Workflow (Harshal Dharia, Cloudbees)
-[February 9, 2016](http://www.meetup.com/DevOpsDC/events/226750186/)| AWS - Herndon | AWS |
-[March 8, 2016](http://www.meetup.com/DevOpsDC/events/226752572/) (May move to Mar 15)| Excella | [To The New](http://www.tothenew.com/) | Successful patterns for Continuous Delivery
-[April 12, 2016](http://www.meetup.com/DevOpsDC/events/226823531/)| Excella | Valiant Solutions, LLC | Cumulus Networks - What is NetDevOps? & James Martin - Ansible 2.0
-[May 17, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvhbnb/)| Optoro | ?? | Sean Walberg & GP
-No June Meetup, come to [DevOpsDaysDC June 8-9](http://www.devopsdays.org/events/2016-washington-dc/welcome/) | | |
-[July 19, 2016](http://www.meetup.com/DevOpsDC/events/227569141/)| Optoro | Chef | Nathen Harvey & Adam Leff
-[August 23, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvlbmb/)| Excella | Fastly | Jay Flowers
-[September 13, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvmbrb/)| Excella | Valiant Solutions & Fugue | Laura Barton & Rodney Young
-[October 11, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvnbpb/)| Optoro | Fugue (food) & River Bed (drinks) | (AppSecUSA is in town) Badri Sriraman & Derek Weeks, Sonatype
-[November 15, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvpblb/)| Excella | evolenthealth.com (food) & Hobsons (drinks) | Tony Alletag - ACES, Inc. & DevOps Improv
-[December 13, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvqbrb/)| Excella | mHelpDesk | Mark Cornick & Valiant Solutions
+[December 5, 2016](https://www.meetup.com/DevOpsDC/events/236034950/)|Excella|Excella|Meetup Mashup for a Cause (MMC) with DC Scrum User Group
+[December 6, 2016](https://www.meetup.com/DevOpsDC/events/235596655/)|Optoro|Chef|Chef - Habitat Workshop
+[January 17, 2017](https://www.meetup.com/DevOpsDC/events/228457134/)|Excella|mHelpDesk|Mark Cornick
+[February 21, 2017](https://www.meetup.com/DevOpsDC/events/234090471/)| | | Joint meetup with [NOVA DevOps](https://www.meetup.com/NOVA-DevOps/)
+[March 14, 2017](https://www.meetup.com/DevOpsDC/events/234090476/)|Excella| |
+[April 11, 2017](https://www.meetup.com/DevOpsDC/events/234801427/)|Excella| |
+[May 9, 2017](https://www.meetup.com/DevOpsDC/events/234801436/)|Excella| |
+[June 13, 2017](https://www.meetup.com/DevOpsDC/events/jkpfmlywjbrb/)|Excella | |
+[July 11, 2017](https://www.meetup.com/DevOpsDC/events/jkpfmlywkbpb/)|Excella| |
+[August 8, 2017](https://www.meetup.com/DevOpsDC/events/jkpfmlywlblb/)|Excella| |
+[September 12, 2017](https://www.meetup.com/DevOpsDC/events/jkpfmlywmbqb/)|Excella| |
+[October 17, 2017](https://www.meetup.com/DevOpsDC/events/236035519/)|Excella| |
+[November 14, 2017](https://www.meetup.com/DevOpsDC/events/jkpfmlywpbsb/)|Excella| |
+[December 12, 2017](https://www.meetup.com/DevOpsDC/events/jkpfmlywqbqb/)|Excella| |
