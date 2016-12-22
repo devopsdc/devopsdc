@@ -1,7 +1,5 @@
 Date|Host Location|Sponsor(s)|Speakers
 ----|-------------|----------|--------
-[December 5, 2016](https://www.meetup.com/DevOpsDC/events/236034950/)|Excella|Excella|Meetup Mashup for a Cause (MMC) with DC Scrum User Group
-[December 6, 2016](https://www.meetup.com/DevOpsDC/events/235596655/)|Optoro|Chef|Chef - Habitat Workshop
 [January 17, 2017](https://www.meetup.com/DevOpsDC/events/228457134/)|Excella|mHelpDesk|Mark Cornick
 [February 21, 2017](https://www.meetup.com/DevOpsDC/events/234090471/)| | | Joint meetup with [NOVA DevOps](https://www.meetup.com/NOVA-DevOps/)
 [March 14, 2017](https://www.meetup.com/DevOpsDC/events/234090476/)|Excella| |
