@@ -2,6 +2,9 @@
 
 Are you interested in speaking?  Please submit a pull request to this page with your name and proposed topic.
 
-* Ric Lister - [Fearless Deployment](https://speakerdeck.com/rlister/fearless-deployment),
-  a.k.a. Extreme Blue/Green For Fun and Profit,
-  a.k.a. How to Retain Your Sanity After Acquisition
+  
+* Rahul Singh (http://www.slideshare.net/AnantCorp/presentations)- 
+  Apache SolR, Apache Spark, The SMACK stack,
+  Akka / Akka.Net, Salesforce Integration, Using Docker with BI tools such as Metabase / Redash, 
+  Knowledge Management and Enterprise Search,
+  Top successes and failures in Big Data
