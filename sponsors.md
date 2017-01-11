@@ -9,3 +9,4 @@ Speaking slots are evaluated and provided outside of sponsorships though each sp
 * [DevOpsDays DC](http://www.devopsdays.org/events/2016-washington-dc/welcome/)
 * [Chef](https://www.chef.io)
 * [InfoZen](http://www.infozen.com/)
+* [Cumulus Networks](https://cumulusnetworks.com/) - Feb 2017
