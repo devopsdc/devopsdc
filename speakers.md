@@ -8,3 +8,4 @@ Are you interested in speaking?  Please submit a pull request to this page with 
   Akka / Akka.Net, Salesforce Integration, Using Docker with BI tools such as Metabase / Redash,
   Knowledge Management and Enterprise Search,
   Top successes and failures in Big Data
+* [Cumulus Networks] (https://cumulusnetworks.com/) - Scott Suehle/Jeff Haydel
