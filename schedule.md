@@ -1,7 +1,7 @@
 Date|Host Location|Sponsor(s)|Speakers
 ----|-------------|----------|--------
 [January 17, 2017](https://www.meetup.com/DevOpsDC/events/228457134/)|Excella|mHelpDesk|Mark Cornick
-[February 21, 2017](https://www.meetup.com/DevOpsDC/events/234090471/)| | InfoZen? | Joint meetup with [NOVA DevOps](https://www.meetup.com/NOVA-DevOps/)
+[February 21, 2017](https://www.meetup.com/DevOpsDC/events/234090471/)| Oteemo | InfoZen? | Joint meetup with [NOVA DevOps](https://www.meetup.com/NOVA-DevOps/)
 [March 14, 2017](https://www.meetup.com/DevOpsDC/events/234090476/)|Excella| | DevOps with Guardrails, Jeremy Snyder
 [April 11, 2017](https://www.meetup.com/DevOpsDC/events/234801427/)|Excella| |
 [May 9, 2017](https://www.meetup.com/DevOpsDC/events/234801436/)|Excella| |
