@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Last Updated:  03-Mar-2017
+*Last Updated:  03-Mar-2017*
 
 DevOpsDC is a community-organized Meetup intended for networking and collaboration in the community.
 
