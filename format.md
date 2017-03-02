@@ -11,6 +11,4 @@
 
 * Hacking
 
-* Just social: networking and drinks
-
-* 
+* Just social: networking and drinks 
