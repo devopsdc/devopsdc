@@ -11,3 +11,4 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * [Cumulus Networks] (https://cumulusnetworks.com/) - Scott Suehle/Jeff Haydel
 * [Naveen Srinivasan](https://github.com/naveensrinivasan) - Using https://github.com/drone/drone as Continuous Delivery platform
 * Jonathan Altman - DevOps & RDMBS schema migration
+* [Glenn Buckholz] (https://www.coveros.com/staff/glenn-buckholz/) - Use Docker to Speed up your Feedback Cycles
