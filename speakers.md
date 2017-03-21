@@ -12,3 +12,5 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * [Naveen Srinivasan](https://github.com/naveensrinivasan) - Using [Drone](https://github.com/drone/drone) as Continuous Delivery platform
 * Jonathan Altman - DevOps & RDMBS schema migration
 * [Glenn Buckholz] (https://www.coveros.com/staff/glenn-buckholz/) - Use Docker to Speed up your Feedback Cycles
+* Elise Walker - (https://github.com/Kindafearless) DevOps Maturity - Not all DevOps are created equal
+* Kyle Day / Glenna Gallagher - From Puppet to Ansible: A journey of automation on a Web Content Mgmt Platform  
