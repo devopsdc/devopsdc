@@ -14,3 +14,5 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * [Glenn Buckholz] (https://www.coveros.com/staff/glenn-buckholz/) - Use Docker to Speed up your Feedback Cycles
 * Elise Walker - (https://github.com/Kindafearless) DevOps Maturity - Not all DevOps are created equal
 * Kyle Day / Glenna Gallagher - From Puppet to Ansible: A journey of automation on a Web Content Mgmt Platform  
+* [Baruch Sadogursky](https://www.papercall.io/speakers/jbaruch) and [Mark Galpin](https://www.linkedin.com/in/magalpin/) - [DevOps at Scale](https://www.papercall.io/speakers/jbaruch/speaker_talks/4315-devops-scale-greek-tragedy-in-3-acts) ([Video](https://www.youtube.com/watch?v=eg6gqvUFh6Q&index=10&list=PLY0Zjn5rFo4PsOm9I42tnCQhC5s1gQOVW))
+* [Baruch Sadogursky](https://www.papercall.io/speakers/jbaruch) and [Mark Galpin](https://www.linkedin.com/in/magalpin/) - [A Research Study into DevOps bottlenecks](https://www.papercall.io/speakers/jbaruch/speaker_talks/13863-a-research-study-into-devops-bottlenecks) ([Video](https://www.youtube.com/watch?v=XPcOoI8UK08&index=2&list=PLY0Zjn5rFo4PsOm9I42tnCQhC5s1gQOVW))
