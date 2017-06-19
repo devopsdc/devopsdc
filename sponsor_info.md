@@ -22,4 +22,4 @@ One food and one beverage sponsorship is available each meeting.
 
 DevOps DC does not share contact information of our attendees with our sponsors.  However, sponsors are more than welcome to ask meeting attendees to share their information.
 
-Please contact Nathen Harvey [<nathen.harvey@gmail.com>](mailto:nathen.harvey@gmail.com) to arrange your sponsorship of DevOps DC!
+Please contact Victoria Guido [vguido@bstonetech.com](mailto:vguido@bstonetech.com) to arrange your sponsorship of DevOps DC!
