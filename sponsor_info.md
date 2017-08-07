@@ -34,7 +34,7 @@ Please [complete our sponsor details form](https://goo.gl/forms/gM855liUoZAw4q8X
 
 ## Diversity/Inclusion Statement
 
-DevOpsDC is committed to improving diversity and inclusion within our profession. Sponsors will include on their slide a diversity/inclusion statement of their choice. See [sample slides for two fictitious companies](https://docs.google.com/presentation/d/1gCH9uAzteBdSPcOdECU8rQThsMjrAZzDWAfSpc5KirY/edit?usp=sharing)
+DevOpsDC is committed to improving diversity and inclusion within our profession. Sponsors will include on their slide a diversity/inclusion statement of their choice. See the Sample Slides below 
 
 Suggestions:
 - woman or minority ownership
@@ -45,4 +45,8 @@ Suggestions:
 - public statements or dashboards
 - or nothing at all
 
+### Sample Slides
+
+![Example.com](/images/example.png)
+![Piped Piper](/images/piper.png)
 
