@@ -8,25 +8,39 @@ We have a number of different sponsorship levels and unique sponsorship opportun
 
 Which of these sponsorship options best suits your needs? Please let us know so that we can make arrangements for you to sponsor some of our upcoming events!
 
-## Food Sponsor
+## Monthly Sponsors:
 
-Sponsor food for our monthly meetup!  Food sponsorship is roughly *$300 for each event*.  We ask that the food sponsor provide pizza, or other food of their choice, and paper goods sufficient to feed the meeting attendees.  As a general rule, this usually means 12-15 pizzas though it may require more depending on the number of attendees.  The sponsor should take on all arrangements for ordering and delivery of the food.  The food sponsor will:
+We need venue, food and beverages. In return, each sponsor will:
+
   * be thanked by the MC
   * have 4 minutes to address the meeting attendees, along with one slide
   * be thanked on the MeetUp event page
-  * be listed on the [Meetup Sponsors](https://www.meetup.com/DevOpsDC/sponsors/) page
+  * be listed on the [Meetup Sponsors](https://www.meetup.com/DevOpsDC/sponsors/) page for six months
+
+### Food Sponsor
+
+Sponsor food for our monthly meetup!  Food sponsorship is roughly *$300 for each event*.  We ask that the food sponsor provide pizza, or other food of their choice, and paper goods sufficient to feed the meeting attendees.  As a general rule, this usually means 12-15 pizzas though it may require more depending on the number of attendees.
 
 ## Beverage Sponsor
 
-Sponsor beverages for our monthly meetup!  Beverage sponsorship is roughly *$200 for each event*.  We ask the beverage sponsor to provide beer and soft drinks in sufficient quantities for the meeting attendees.  As a general rule, one-and-a-half or two cases of beer and 6-8 2 liter bottles of soda is enough.  The group tends to prefer craft beer and local over mass produced beers.  The beverage sponsorwill:
+Sponsor beverages for our monthly meetup!  Beverage sponsorship is roughly *$200 for each event*.  We ask the beverage sponsor to provide beer and soft drinks in sufficient quantities for the meeting attendees.  As a general rule, one-and-a-half or two cases of beer and 6-8 2 liter bottles of soda is enough.  The group tends to prefer craft beer and local over mass produced beers.  
+  
+## Venue Sponsor
+
+Provide us a space for up to 100 participants, and be OK with food and drinks. If you need an attendee list for security, we'll send the RSVP the afternoon of the MeetUp
+
+## Logo Sponsor - one-time
+
+We need a logo. If you're willing to devote a designer to the task, let us know by Twitter mention to @devopsdc and we'll DM you the email contact. We'll pick the sponsor based on prior work by 2017-12-15, and we'd like to have the logo for our first 2018 meetup on 2018-01-16. In return, for four months your company will:
+
   * be thanked by the MC
   * have 4 minutes to address the meeting attendees, along with one slide
   * be thanked on the MeetUp event page
-  * be listed on the [Meetup Sponsors](https://www.meetup.com/DevOpsDC/sponsors/) page
+  * have a one-year listing on the [Meetup Sponsors](https://www.meetup.com/DevOpsDC/sponsors/) page
   
 ## Logistics
 
-One food and one beverage sponsorship is available each meeting.
+One food, one beverage, and one venue sponsorship is available each meeting.
 
 DevOps DC does not share contact information of our attendees with our sponsors.  However, sponsors are more than welcome to ask meeting attendees to share their information.
 
