@@ -31,7 +31,7 @@ Provide us a space for up to 100 participants, and be OK with food and drinks. I
 
 ## Logo Sponsor - one-time
 
-We need a logo. If you're willing to devote a designer to the task, let us know by Twitter mention to @devopsdc and we'll DM you the email contact. We'll pick the sponsor based on prior work by 2017-12-15, and we'd like to have the logo for our first 2018 meetup on 2018-01-16. In return, for four months your company will:
+We need a logo. If you're willing to devote a designer to the task, let us know by leaving message at https://www.meetup.com/DevOpsDC/ and we'll respond. We'll pick the sponsor based on prior work by 2017-12-15, and we'd like to have the logo for our first 2018 meetup on 2018-01-16. In return, for four months your company will:
 
   * be thanked by the MC
   * have 4 minutes to address the meeting attendees, along with one slide
