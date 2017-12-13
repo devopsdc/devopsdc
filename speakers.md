@@ -20,3 +20,4 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * [Billy Poggi] (https://www.linkedin.com/in/billy-poggi-93855427/) - DevOps for Leaders, The People, Processes and Technology
 * Rick Spencer (Bitnami): I could do a comparison of helm vs jsonnet for managing deployments
 * [Paula Thrasher](https://www.linkedin.com/in/pthrasher/) - Lessons from Our Journey to Infrastructure as a Code (meta patterns on introducing IaC technology practice, plus demos) - [Video](https://www.youtube.com/watch?v=pxLtpvICUhU)
+* [Badri Sriraman] (https:golean.io)  - Apply data science to software engineering using OODA Loop
