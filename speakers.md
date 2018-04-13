@@ -21,3 +21,4 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * Rick Spencer (Bitnami): I could do a comparison of helm vs jsonnet for managing deployments
 * [Paula Thrasher](https://www.linkedin.com/in/pthrasher/) - Lessons from Our Journey to Infrastructure as a Code (meta patterns on introducing IaC technology practice, plus demos) - [Video](https://www.youtube.com/watch?v=pxLtpvICUhU)
 * [Badri Sriraman] (https:golean.io)  - Apply data science to software engineering using OODA Loop
+* [Muralidhar Kurukunda/Kiran Satelli] - Serving customer accounts and transactions data serverless
