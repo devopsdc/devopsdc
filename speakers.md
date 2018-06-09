@@ -17,8 +17,11 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * [Baruch Sadogursky](https://www.papercall.io/speakers/jbaruch) and [Mark Galpin](https://www.linkedin.com/in/magalpin/) - [DevOps at Scale](https://www.papercall.io/speakers/jbaruch/speaker_talks/4315-devops-scale-greek-tragedy-in-3-acts) ([Video](https://www.youtube.com/watch?v=eg6gqvUFh6Q&index=10&list=PLY0Zjn5rFo4PsOm9I42tnCQhC5s1gQOVW))
 * [Baruch Sadogursky](https://www.papercall.io/speakers/jbaruch) and [Mark Galpin](https://www.linkedin.com/in/magalpin/) - [A Research Study into DevOps bottlenecks](https://www.papercall.io/speakers/jbaruch/speaker_talks/13863-a-research-study-into-devops-bottlenecks) ([Video](https://www.youtube.com/watch?v=XPcOoI8UK08&index=2&list=PLY0Zjn5rFo4PsOm9I42tnCQhC5s1gQOVW))
 * [Julka Grodel](https://github.com/julka) - Is your code ready for PHP7?
-* [Billy Poggi] (https://www.linkedin.com/in/billy-poggi-93855427/) - DevOps for Leaders, The People, Processes and Technology
+* [Billy Poggi](https://github.com/billyp) - [LinkedIn](https://www.linkedin.com/in/billypoggi/) - Servant Leadership from the Bottom, How to Lead without being on Top
 * Rick Spencer (Bitnami): I could do a comparison of helm vs jsonnet for managing deployments
 * [Paula Thrasher](https://www.linkedin.com/in/pthrasher/) - Lessons from Our Journey to Infrastructure as a Code (meta patterns on introducing IaC technology practice, plus demos) - [Video](https://www.youtube.com/watch?v=pxLtpvICUhU)
 * [Badri Sriraman] (https:golean.io)  - Apply data science to software engineering using OODA Loop
 * [Muralidhar Kurukunda/Kiran Satelli] - Serving customer accounts and transactions data serverless
+* [Vikram Gadang/Pradeep Elluru] - Federated development and deployment of individual components in a large single page web applications
+* [Matt Stratton](https://www.mattstratton.com) - [Incidents & Accidents](https://www.meetup.com/DevOps-Minneapolis/events/247091630/)
+* [Grant Dickie] (https://npr.codes/) - Chicken Soup for the Automated Soul: How small teams can iterate on launching code for big projects
