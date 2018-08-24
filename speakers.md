@@ -1,7 +1,7 @@
 # Potential Speakers for DevOpsDC
 
 Are you interested in speaking?  Please submit a pull request to this page with your name and proposed topic.
-
+* Building CI/CD Pipelines with [CircleCI](https://circleci.com) & Docker - [Angel Rivera](https://twitter.com/punkdata)
 * [BotFactory.io](http://botfactory.io/) - Randi Fuller
 * [Rahul Singh](http://www.slideshare.net/AnantCorp/presentations)-
   Apache SolR, Apache Spark, The SMACK stack,
