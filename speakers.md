@@ -1,7 +1,7 @@
 # Potential Speakers for DevOpsDC
 
 Are you interested in speaking?  Please submit a pull request to this page with your name and proposed topic.
-
+* Building CI/CD Pipelines with [CircleCI](https://circleci.com) & Docker - [Angel Rivera](https://twitter.com/punkdata)
 * [BotFactory.io](http://botfactory.io/) - Randi Fuller
 * [Rahul Singh](http://www.slideshare.net/AnantCorp/presentations)-
   Apache SolR, Apache Spark, The SMACK stack,
@@ -23,3 +23,4 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * [Badri Sriraman] (https:golean.io)  - Apply data science to software engineering using OODA Loop
 * [Vikram Gadang/Pradeep Elluru] - Federated development and deployment of individual components in a large single page web applications
 * [Matt Stratton](https://www.mattstratton.com) - [Incidents & Accidents](https://www.meetup.com/DevOps-Minneapolis/events/247091630/)
+
