@@ -12,6 +12,7 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * [Naveen Srinivasan](https://github.com/naveensrinivasan) - Using [Drone](https://github.com/drone/drone) as Continuous Delivery platform
 * Jonathan Altman - DevOps & RDMBS schema migration
 * [Glenn Buckholz] (https://www.coveros.com/staff/glenn-buckholz/) - Use Docker to Speed up your Feedback Cycles
+* [Jose Garcia and Capital Terefe] (https://boldtechnika.com/about_us/) - Testing At Scale In Devops
 * Elise Walker - (https://github.com/Kindafearless) DevOps Maturity - Not all DevOps are created equal
 * Kyle Day / Glenna Gallagher - A Tale of Automation: on a Web Content Mgmt Platform  
 * [Baruch Sadogursky](https://www.papercall.io/speakers/jbaruch) and [Mark Galpin](https://www.linkedin.com/in/magalpin/) - [DevOps at Scale](https://www.papercall.io/speakers/jbaruch/speaker_talks/4315-devops-scale-greek-tragedy-in-3-acts) ([Video](https://www.youtube.com/watch?v=eg6gqvUFh6Q&index=10&list=PLY0Zjn5rFo4PsOm9I42tnCQhC5s1gQOVW))
