@@ -22,6 +22,9 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * Rick Spencer (Bitnami): I could do a comparison of helm vs jsonnet for managing deployments
 * [Paula Thrasher](https://www.linkedin.com/in/pthrasher/) - Lessons from Our Journey to Infrastructure as a Code (meta patterns on introducing IaC technology practice, plus demos) - [Video](https://www.youtube.com/watch?v=pxLtpvICUhU)
 * [Badri Sriraman] (https:golean.io)  - Apply data science to software engineering using OODA Loop
+* [Muralidhar Kurukunda/Kiran Satelli] - Serving customer accounts and transactions data serverless
 * [Vikram Gadang/Pradeep Elluru] - Federated development and deployment of individual components in a large single page web applications
 * [Matt Stratton](https://www.mattstratton.com) - [Incidents & Accidents](https://www.meetup.com/DevOps-Minneapolis/events/247091630/)
+* [Grant Dickie] (https://npr.codes/) - Chicken Soup for the Automated Soul: How small teams can iterate on launching code for big projects
 * [Michael Spiegel](https://mspiegel.github.io) - [Always Be Closing](https://www.thoughtdealership.com/post/always-be-closing/) a GitHub integration for improving pull request workflows
+
