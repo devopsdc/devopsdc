@@ -23,4 +23,4 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * [Badri Sriraman] (https:golean.io)  - Apply data science to software engineering using OODA Loop
 * [Vikram Gadang/Pradeep Elluru] - Federated development and deployment of individual components in a large single page web applications
 * [Matt Stratton](https://www.mattstratton.com) - [Incidents & Accidents](https://www.meetup.com/DevOps-Minneapolis/events/247091630/)
-
+* [Michael Spiegel](https://mspiegel.github.io) - [Always Be Closing](https://www.thoughtdealership.com/post/always-be-closing/) a GitHub integration for improving pull request workflows
