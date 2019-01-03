@@ -1,7 +1,7 @@
 # Potential Speakers for DevOpsDC
 
 Are you interested in speaking?  Please submit a pull request to this page with your name and proposed topic.
-
+* Building CI/CD Pipelines with [CircleCI](https://circleci.com) & Docker - [Angel Rivera](https://twitter.com/punkdata)
 * [BotFactory.io](http://botfactory.io/) - Randi Fuller
 * [Rahul Singh](http://www.slideshare.net/AnantCorp/presentations)-
   Apache SolR, Apache Spark, The SMACK stack,
@@ -12,6 +12,7 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * [Naveen Srinivasan](https://github.com/naveensrinivasan) - Using [Drone](https://github.com/drone/drone) as Continuous Delivery platform
 * Jonathan Altman - DevOps & RDMBS schema migration
 * [Glenn Buckholz] (https://www.coveros.com/staff/glenn-buckholz/) - Use Docker to Speed up your Feedback Cycles
+* [Jose Garcia and Capital Terefe] (https://boldtechnika.com/about_us/) - Testing At Scale In Devops
 * Elise Walker - (https://github.com/Kindafearless) DevOps Maturity - Not all DevOps are created equal
 * Kyle Day / Glenna Gallagher - A Tale of Automation: on a Web Content Mgmt Platform  
 * [Baruch Sadogursky](https://www.papercall.io/speakers/jbaruch) and [Mark Galpin](https://www.linkedin.com/in/magalpin/) - [DevOps at Scale](https://www.papercall.io/speakers/jbaruch/speaker_talks/4315-devops-scale-greek-tragedy-in-3-acts) ([Video](https://www.youtube.com/watch?v=eg6gqvUFh6Q&index=10&list=PLY0Zjn5rFo4PsOm9I42tnCQhC5s1gQOVW))
@@ -25,3 +26,5 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * [Vikram Gadang/Pradeep Elluru] - Federated development and deployment of individual components in a large single page web applications
 * [Matt Stratton](https://www.mattstratton.com) - [Incidents & Accidents](https://www.meetup.com/DevOps-Minneapolis/events/247091630/)
 * [Grant Dickie] (https://npr.codes/) - Chicken Soup for the Automated Soul: How small teams can iterate on launching code for big projects
+* [Michael Spiegel](https://mspiegel.github.io) - [Always Be Closing](https://www.thoughtdealership.com/post/always-be-closing/) a GitHub integration for improving pull request workflows
+
