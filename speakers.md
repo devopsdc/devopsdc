@@ -27,4 +27,5 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * [Matt Stratton](https://www.mattstratton.com) - [Incidents & Accidents](https://www.meetup.com/DevOps-Minneapolis/events/247091630/)
 * [Grant Dickie] (https://npr.codes/) - Chicken Soup for the Automated Soul: How small teams can iterate on launching code for big projects
 * [Michael Spiegel](https://mspiegel.github.io) - [Always Be Closing](https://www.thoughtdealership.com/post/always-be-closing/) a GitHub integration for improving pull request workflows
+* [Arthur Pro](https://github.com/arthurpro) - eCommerce deployment automation with Ansible
 
