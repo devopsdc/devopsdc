@@ -10,3 +10,5 @@ Speaking slots are evaluated and provided outside of sponsorships though each sp
 * [Chef](https://www.chef.io)
 * [InfoZen](http://www.infozen.com/)
 * [Cumulus Networks](https://cumulusnetworks.com/) - Feb 2017
+* [amage.media](https://amage.media/) - sponsoring meetup live streaming and video production
+
