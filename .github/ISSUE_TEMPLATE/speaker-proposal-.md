@@ -13,7 +13,7 @@ Name, contact info (any of Twitter, Signal, GitHub repo, LinkedIn, email or some
 
 ## Blurb
 
-What are you talking about, why is it compelling
+What are you talking about, why is it compelling?
 
 ## Other
 
