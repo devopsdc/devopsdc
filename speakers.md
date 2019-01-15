@@ -49,9 +49,14 @@ These stay open so we can quickly reference who's talked in the last year. Befor
 
 Current labels:
 
-* **Tools and technology**: What it says
-* **Culture and business**: How we apply our practices and tools
-* **Diverse voices**: Ensure we have a broad range of viewpoints, and encourage all comers to practice DevOps
-* **Lightning talk**: Under 10 minutes.
+* **Tools and technology**: What it says ![label: tools-tech][~tools-tech]
+* **Culture and business**: How we apply our practices and tools ![label: culture-change][~culture-change]
+* **Diverse voices**: Ensure we have a broad range of viewpoints, and encourage all comers to practice DevOps ![label: diverse-voices][~diverse-voices]
+* **Lightning talk**: Under 10 minutes. ![label: lightning-talk][~lightning-talk]
+
+[~culture-change]: https://img.shields.io/badge/-culture%20%26%20change-5511bb.svg
+[~tools-tech]: https://img.shields.io/badge/-tools%20%26%20tech-84b6eb.svg
+[~diverse-voices]: https://img.shields.io/badge/-diverse%20voices-cc317c.svg
+[~lightning-talk]: https://img.shields.io/badge/-lightning%20talk-000000.svg
 
 
