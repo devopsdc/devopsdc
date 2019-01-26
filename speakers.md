@@ -1,31 +1,62 @@
-# Potential Speakers for DevOpsDC
+# DevOpsDC MeetUp and continuous RFP
 
-Are you interested in speaking?  Please submit a pull request to this page with your name and proposed topic.
-* Building CI/CD Pipelines with [CircleCI](https://circleci.com) & Docker - [Angel Rivera](https://twitter.com/punkdata)
-* [BotFactory.io](http://botfactory.io/) - Randi Fuller
-* [Rahul Singh](http://www.slideshare.net/AnantCorp/presentations)-
-  Apache SolR, Apache Spark, The SMACK stack,
-  Akka / Akka.Net, Salesforce Integration, Using Docker with BI tools such as Metabase / Redash,
-  Knowledge Management and Enterprise Search,
-  Top successes and failures in Big Data
-* [Cumulus Networks](https://cumulusnetworks.com/) - Scott Suehle/Jeff Haydel
-* [Naveen Srinivasan](https://github.com/naveensrinivasan) - Using [Drone](https://github.com/drone/drone) as Continuous Delivery platform
-* Jonathan Altman - DevOps & RDMBS schema migration
-* [Glenn Buckholz] (https://www.coveros.com/staff/glenn-buckholz/) - Use Docker to Speed up your Feedback Cycles
-* [Jose Garcia and Capital Terefe] (https://boldtechnika.com/about_us/) - Testing At Scale In Devops
-* Elise Walker - (https://github.com/Kindafearless) DevOps Maturity - Not all DevOps are created equal
-* Kyle Day / Glenna Gallagher - A Tale of Automation: on a Web Content Mgmt Platform  
-* [Baruch Sadogursky](https://www.papercall.io/speakers/jbaruch) and [Mark Galpin](https://www.linkedin.com/in/magalpin/) - [DevOps at Scale](https://www.papercall.io/speakers/jbaruch/speaker_talks/4315-devops-scale-greek-tragedy-in-3-acts) ([Video](https://www.youtube.com/watch?v=eg6gqvUFh6Q&index=10&list=PLY0Zjn5rFo4PsOm9I42tnCQhC5s1gQOVW))
-* [Baruch Sadogursky](https://www.papercall.io/speakers/jbaruch) and [Mark Galpin](https://www.linkedin.com/in/magalpin/) - [A Research Study into DevOps bottlenecks](https://www.papercall.io/speakers/jbaruch/speaker_talks/13863-a-research-study-into-devops-bottlenecks) ([Video](https://www.youtube.com/watch?v=XPcOoI8UK08&index=2&list=PLY0Zjn5rFo4PsOm9I42tnCQhC5s1gQOVW))
-* [Julka Grodel](https://github.com/julka) - Is your code ready for PHP7?
-* [Billy Poggi](https://github.com/billyp) - [LinkedIn](https://www.linkedin.com/in/billypoggi/) - Servant Leadership from the Bottom, How to Lead without being on Top
-* Rick Spencer (Bitnami): I could do a comparison of helm vs jsonnet for managing deployments
-* [Paula Thrasher](https://www.linkedin.com/in/pthrasher/) - Lessons from Our Journey to Infrastructure as a Code (meta patterns on introducing IaC technology practice, plus demos) - [Video](https://www.youtube.com/watch?v=pxLtpvICUhU)
-* [Badri Sriraman] (https:golean.io)  - Apply data science to software engineering using OODA Loop
-* [Muralidhar Kurukunda/Kiran Satelli] - Serving customer accounts and transactions data serverless
-* [Vikram Gadang/Pradeep Elluru] - Federated development and deployment of individual components in a large single page web applications
-* [Matt Stratton](https://www.mattstratton.com) - [Incidents & Accidents](https://www.meetup.com/DevOps-Minneapolis/events/247091630/)
-* [Grant Dickie] (https://npr.codes/) - Chicken Soup for the Automated Soul: How small teams can iterate on launching code for big projects
-* [Michael Spiegel](https://mspiegel.github.io) - [Always Be Closing](https://www.thoughtdealership.com/post/always-be-closing/) a GitHub integration for improving pull request workflows
-* [Arthur Pro](https://github.com/arthurpro) - eCommerce deployment automation with Ansible
+For 2019 the DevOpsDC organizers are iterating on a revamped process for soliciting, tracking and scheduling speakers. We are replacing pull requests to this document with a process tracking speakers, and their proposals, as issues that we track on a [GitHub project board](https://github.com/devopsdc/devopsdc/projects/1) as tasks with Kanban flow.
+
+## How to propose a topic
+
+Open a [Speaker proposal](https://github.com/devopsdc/devopsdc/issues/new?template=speaker-proposal-.md) and complete it to the best of your ability. If the organizers are not responding within a few weeks feel free to comment on the issue to get our attention.
+
+## How to track your proposal
+
+The proposal _states_ are as following:
+
+### Developing
+
+WIP limit: none
+
+These are sketches of ideas that the DevOpsDC organizers need to follow up on, or that our proposers are still mulling over. GitHub notes should be converted to issues before moving to "Proposed".
+
+### Proposed
+
+WIP: Nothing older than 60 days
+
+These are talks that are ready to go, or can be developed within two months. DevOpsDC organizers should either accept talks, or close them as not suitable for our MeetUp. Reasons for closing can include:
+
+* Topic needs to be further developed, or overlaps with recent content
+* Topic is too vendor-focussed (see below)
+* Speaker has presented too recently or too frequently
+* Topic is OK but we're unlikely to get to you in the next 12 months so let's not keep you waiting.
+
+Vendors: We don't book proprietary product pitches, with a few exceptions for new companies that are based here in the DC area (e.g.: Fugue). If you want to talk to a larger problem area that our industry is tackling, and your product is less than 1/4 of the talk content, that's cool.
+
+### Accepted
+
+WIP: Nothing older than 6 months
+
+Talks that need to scheduled. After 6 months, we should revisit whether we really want the talk or not. We try to schedule speakers at least 2 months ahead.
+
+### Scheduled
+
+WIP: None?
+
+Talks that are on the calendar. They stay open in case things go wrong and we need to reschedule.
+
+### Done
+
+These stay open so we can quickly reference who's talked in the last year. Before closing, we should ponder inviting them back if they have proven to be particularly compelling.
+
+## Labels
+
+Current labels:
+
+* **Tools and technology**: What it says ![label: tools-tech][~tools-tech]
+* **Culture and business**: How we apply our practices and tools ![label: culture-change][~culture-change]
+* **Diverse voices**: Ensure we have a broad range of viewpoints, and encourage all comers to practice DevOps ![label: diverse-voices][~diverse-voices]
+* **Lightning talk**: Under 10 minutes. ![label: lightning-talk][~lightning-talk]
+
+[~culture-change]: https://img.shields.io/badge/-culture%20%26%20change-5511bb.svg
+[~tools-tech]: https://img.shields.io/badge/-tools%20%26%20tech-84b6eb.svg
+[~diverse-voices]: https://img.shields.io/badge/-diverse%20voices-cc317c.svg
+[~lightning-talk]: https://img.shields.io/badge/-lightning%20talk-000000.svg
+
 
