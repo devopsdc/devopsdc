@@ -38,7 +38,7 @@ One food, one beverage, and one venue sponsorship is available each meeting.
 
 DevOps DC does not share contact information of our attendees with our sponsors.  However, sponsors are more than welcome to ask meeting attendees to share their information.
 
-Please [complete our sponsor details form](https://goo.gl/forms/gM855liUoZAw4q8X2) or contact Victoria Guido [vguido@bstonetech.com](mailto:vguido@bstonetech.com) or Peter Burkholder [@pburkholder](https://twitter.com/pburkholder) to arrange your sponsorship of DevOps DC!
+Please [complete our sponsor details form](https://goo.gl/forms/gM855liUoZAw4q8X2) or contact the organizers at [meetup@devopsdaysdc.org](mailto:meetup@devopsdaysdc.org) to arrange your sponsorship of DevOps DC!
 
 ## Diversity/Inclusion Statement
 
