@@ -34,7 +34,7 @@ If a participant engages in behavior that violates this code of conduct, the Mee
 
 ## Contact Information
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a Meetup organizer. Meetup organizers can be found on thei [Organizers page of Meetup.com site](http://www.meetup.com/DevOpsDC/members/?op=leaders).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a Meetup organizer. Meetup organizers can be found on the [Organizers page of Meetup.com site](http://www.meetup.com/DevOpsDC/members/?op=leaders).
 
 ## License
 
